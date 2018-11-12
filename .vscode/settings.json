@@ -1,0 +1,5 @@
+{
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.unittestEnabled": true
+}
